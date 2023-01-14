@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Business Management and Administration graduate, tech lover, and self-taught developer."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://emartinez-dev.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/emartinez-dev"
@@ -72,6 +69,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/f-enrique-martinez/"
+    - label: "Soundcloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/nanoldinho"
 
 footer:
   links:
@@ -84,6 +84,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/f-enrique-martinez/"
+    - label: "Soundcloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/nanoldinho"
 
 defaults:
   # _posts
