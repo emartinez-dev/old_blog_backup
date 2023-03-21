@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog. Mostly programming, music and random thoughts
 twitter_username: emartinez-dev
 github_username: emartinez-dev
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 breadcrumbs: true
 
@@ -68,6 +68,7 @@ author:
   name   : "Enrique Martinez"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Business Management and Administration graduate, tech lover, and self-taught developer."
+  location: "Spain"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -81,6 +82,14 @@ author:
     #- label: "Soundcloud"
     #  icon: "fab fa-fw fa-soundcloud"
     #  url: "https://soundcloud.com/nanoldinho"
+
+social:
+  type: "Person"
+  name: "Enrique Martínez"
+  links:
+    - "https://twitter.com/emartinez-dev"
+    - "https://www.linkedin.com/in/f-enrique-martinez/"
+    - "https://github.com/emartinez-dev"
 
 jekyll-archives:
   enabled: []
@@ -119,6 +128,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
