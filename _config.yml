@@ -23,6 +23,7 @@ twitter_username: emartinez-dev
 github_username: emartinez-dev
 minimal_mistakes_skin: neon
 search: true
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -56,6 +57,7 @@ analytics:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
+  - jekyll-archives
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -80,6 +82,15 @@ author:
     #  icon: "fab fa-fw fa-soundcloud"
     #  url: "https://soundcloud.com/nanoldinho"
 
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 footer:
   links:
