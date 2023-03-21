@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Enrique Martinez's blog
+title: Enrique Martinez
+subtitle: Does things!
+title_separator: "|"
 email: enrique@emartinez.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Programming, music and random thoughts
+  Welcome to my blog. Mostly programming, music and random thoughts
 twitter_username: emartinez-dev
 github_username: emartinez-dev
 minimal_mistakes_skin: neon
@@ -74,9 +76,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/f-enrique-martinez/"
-    - label: "Soundcloud"
-      icon: "fab fa-fw fa-soundcloud"
-      url: "https://soundcloud.com/nanoldinho"
+    #- label: "Soundcloud"
+    #  icon: "fab fa-fw fa-soundcloud"
+    #  url: "https://soundcloud.com/nanoldinho"
+
 
 footer:
   links:
@@ -89,9 +92,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/f-enrique-martinez/"
-    - label: "Soundcloud"
-      icon: "fab fa-fw fa-soundcloud"
-      url: "https://soundcloud.com/nanoldinho"
+    #- label: "Soundcloud"
+    #  icon: "fab fa-fw fa-soundcloud"
+    #  url: "https://soundcloud.com/nanoldinho"
 
 defaults:
   # _posts
