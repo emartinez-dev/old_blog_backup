@@ -19,7 +19,7 @@ title_separator: "|"
 email: enrique@emartinez.net
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog. Mostly programming, music and random thoughts
-twitter_username: emartinez-dev
+twitter_username: emartinez_dev
 github_username: emartinez-dev
 minimal_mistakes_skin: dark
 search: true
