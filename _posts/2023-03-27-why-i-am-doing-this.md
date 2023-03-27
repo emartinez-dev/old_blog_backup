@@ -2,6 +2,7 @@
 layout: single
 title:  "Why I am doing this now (and why I didn't do it before)"
 comments: true
+category: personal
 ---
 
 ![Hello world program written by Brian Kernighan in
