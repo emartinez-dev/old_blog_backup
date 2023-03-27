@@ -1,6 +1,7 @@
 ---
-layout: posts
+layout: single
 title:  "Why I am doing this now (and why I didn't do it before)"
+comments: true
 ---
 
 ![Hello world program written by Brian Kernighan in
