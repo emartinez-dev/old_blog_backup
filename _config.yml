@@ -64,6 +64,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "emartinez"
+
 author:
   name   : "Enrique Martinez"
   avatar : "/assets/images/bio-photo.jpg"
@@ -125,10 +130,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
       related: true
       show_date: true
+      comments: true
   # _pages
   - scope:
       path: "_pages"
